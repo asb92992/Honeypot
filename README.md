@@ -15,7 +15,5 @@ Time spent: 7 hours spent in total
 #Honeypot Deployment
 -  Dionnaea attracts attackers by creating and monitoring vulnerabilities that nmap or a port scanner will pick up. Dinaea is a fake server that is publlicly available. 
 
-#Database Backup
-
-The session.json in the image above. 
+#Database backup
 
