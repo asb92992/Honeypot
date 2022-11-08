@@ -15,6 +15,5 @@ Time spent: 7 hours spent in total
 
 #Database Backup
 
-
-
+The session.json in the image above. 
 
