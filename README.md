@@ -8,7 +8,7 @@ Time spent: 7 hours spent in total
 #Honeypot Dash
 
 
-![Screenshot 2022-11-07 234929](https://user-images.githubusercontent.com/58159183/200508819-c85e5eac-6cbc-4dae-8f3f-1ac0fa430252.png)
+
 
 
 
